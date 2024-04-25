@@ -1,4 +1,3 @@
 # machinelearning
-Estudos sobre Machine Learning
-
-Fontes relacionados ao curso sobre Machine Learning
+Estudos/cursos sobre Machine Learning.
+Fontes relacionados aos exercícios sobre Machine Learning.
